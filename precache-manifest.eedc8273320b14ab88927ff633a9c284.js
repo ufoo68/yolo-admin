@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b9206ee63259674925c741739514b16",
+    "revision": "519151569206584160ba1c612ba3dc5f",
     "url": "/yolo-admin/index.html"
   },
   {
-    "revision": "5056d66ce286216bf101",
+    "revision": "6ff6c9c982bdf1990943",
     "url": "/yolo-admin/static/css/main.9c471e0b.chunk.css"
   },
   {
-    "revision": "ab45014352cf98a6d6da",
-    "url": "/yolo-admin/static/js/2.c3db12cf.chunk.js"
+    "revision": "f00a547e6bb2ec772206",
+    "url": "/yolo-admin/static/js/2.760d3b19.chunk.js"
   },
   {
-    "revision": "5056d66ce286216bf101",
-    "url": "/yolo-admin/static/js/main.516459f2.chunk.js"
+    "revision": "6ff6c9c982bdf1990943",
+    "url": "/yolo-admin/static/js/main.aebbd025.chunk.js"
   },
   {
     "revision": "93ab8af9565a000ce288",

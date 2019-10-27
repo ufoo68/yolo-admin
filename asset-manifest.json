@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/yolo-admin/static/css/main.9c471e0b.chunk.css",
-    "main.js": "/yolo-admin/static/js/main.516459f2.chunk.js",
-    "main.js.map": "/yolo-admin/static/js/main.516459f2.chunk.js.map",
+    "main.js": "/yolo-admin/static/js/main.aebbd025.chunk.js",
+    "main.js.map": "/yolo-admin/static/js/main.aebbd025.chunk.js.map",
     "runtime-main.js": "/yolo-admin/static/js/runtime-main.eb97b420.js",
     "runtime-main.js.map": "/yolo-admin/static/js/runtime-main.eb97b420.js.map",
-    "static/js/2.c3db12cf.chunk.js": "/yolo-admin/static/js/2.c3db12cf.chunk.js",
-    "static/js/2.c3db12cf.chunk.js.map": "/yolo-admin/static/js/2.c3db12cf.chunk.js.map",
+    "static/js/2.760d3b19.chunk.js": "/yolo-admin/static/js/2.760d3b19.chunk.js",
+    "static/js/2.760d3b19.chunk.js.map": "/yolo-admin/static/js/2.760d3b19.chunk.js.map",
     "index.html": "/yolo-admin/index.html",
-    "precache-manifest.0f249dc7b3c84b101b9cb9d25e769717.js": "/yolo-admin/precache-manifest.0f249dc7b3c84b101b9cb9d25e769717.js",
+    "precache-manifest.eedc8273320b14ab88927ff633a9c284.js": "/yolo-admin/precache-manifest.eedc8273320b14ab88927ff633a9c284.js",
     "service-worker.js": "/yolo-admin/service-worker.js",
     "static/css/main.9c471e0b.chunk.css.map": "/yolo-admin/static/css/main.9c471e0b.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.eb97b420.js",
-    "static/js/2.c3db12cf.chunk.js",
+    "static/js/2.760d3b19.chunk.js",
     "static/css/main.9c471e0b.chunk.css",
-    "static/js/main.516459f2.chunk.js"
+    "static/js/main.aebbd025.chunk.js"
   ]
 }

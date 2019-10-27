@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yolo-admin/precache-manifest.4de6f0b738b2cca2edc14c56d294b1ed.js"
+  "/yolo-admin/precache-manifest.15ad37692cc7f0b9a1373867918f7237.js"
 );
 
 self.addEventListener('message', (event) => {
